@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paintball Marker Spyder MR 100
+* source:	https://sketchfab.com/3d-models/paintball-marker-spyder-mr-100-f1d0ead2296b4f16b8d3f957c16ac8d2
+* author:	olgasardykova (https://sketchfab.com/olgasardykova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paintball Marker Spyder MR 100" (https://sketchfab.com/3d-models/paintball-marker-spyder-mr-100-f1d0ead2296b4f16b8d3f957c16ac8d2) by olgasardykova (https://sketchfab.com/olgasardykova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

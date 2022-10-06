@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jägermeister 0.7L bottle (Japan)
+* source:	https://sketchfab.com/3d-models/jagermeister-07l-bottle-japan-bb64d4d1448b47ccb788656e5d522ec9
+* author:	VRC-IW (https://sketchfab.com/VRC-IW)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jägermeister 0.7L bottle (Japan)" (https://sketchfab.com/3d-models/jagermeister-07l-bottle-japan-bb64d4d1448b47ccb788656e5d522ec9) by VRC-IW (https://sketchfab.com/VRC-IW) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

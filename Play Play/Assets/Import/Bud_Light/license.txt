@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bud Light
+* source:	https://sketchfab.com/3d-models/bud-light-6cef46fc5672443185c5f9b46d8d7fa4
+* author:	Anthony Yanez (https://sketchfab.com/paulyanez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bud Light" (https://sketchfab.com/3d-models/bud-light-6cef46fc5672443185c5f9b46d8d7fa4) by Anthony Yanez (https://sketchfab.com/paulyanez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

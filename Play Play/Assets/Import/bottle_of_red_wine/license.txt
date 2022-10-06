@@ -1,0 +1,11 @@
+Model Information:
+* title:	bottle of red wine
+* source:	https://sketchfab.com/3d-models/bottle-of-red-wine-c2942bec28014e3db3ee9f2494b13fce
+* author:	Mirriliem (https://sketchfab.com/Mirriliem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bottle of red wine" (https://sketchfab.com/3d-models/bottle-of-red-wine-c2942bec28014e3db3ee9f2494b13fce) by Mirriliem (https://sketchfab.com/Mirriliem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

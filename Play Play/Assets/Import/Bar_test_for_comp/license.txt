@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bar test for comp
+* source:	https://sketchfab.com/3d-models/bar-test-for-comp-de8dbee5164149b8b3ea484fdaeec6d4
+* author:	digitalninja (https://sketchfab.com/digitalninja)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bar test for comp" (https://sketchfab.com/3d-models/bar-test-for-comp-de8dbee5164149b8b3ea484fdaeec6d4) by digitalninja (https://sketchfab.com/digitalninja) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

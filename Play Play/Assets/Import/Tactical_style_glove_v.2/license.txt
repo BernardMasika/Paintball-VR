@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tactical style glove v.2
+* source:	https://sketchfab.com/3d-models/tactical-style-glove-v2-f951875f7108400ca887697a6fad1857
+* author:	VALIDOL (https://sketchfab.com/VALIDOLOVICH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tactical style glove v.2" (https://sketchfab.com/3d-models/tactical-style-glove-v2-f951875f7108400ca887697a6fad1857) by VALIDOL (https://sketchfab.com/VALIDOLOVICH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Archery Wooden Supports for target
+* source:	https://sketchfab.com/3d-models/archery-wooden-supports-for-target-91d384cdeb8c4e38b6c104e228cbe7b0
+* author:	murilojones (https://sketchfab.com/murilojones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Archery Wooden Supports for target" (https://sketchfab.com/3d-models/archery-wooden-supports-for-target-91d384cdeb8c4e38b6c104e228cbe7b0) by murilojones (https://sketchfab.com/murilojones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Speakers
+* source:	https://sketchfab.com/3d-models/speakers-4445f4442a884999960e7e6660459095
+* author:	Shanika.Perez (https://sketchfab.com/Shanika.Perez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Speakers" (https://sketchfab.com/3d-models/speakers-4445f4442a884999960e7e6660459095) by Shanika.Perez (https://sketchfab.com/Shanika.Perez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

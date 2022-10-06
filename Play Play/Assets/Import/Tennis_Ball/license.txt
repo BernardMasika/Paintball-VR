@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tennis Ball
+* source:	https://sketchfab.com/3d-models/tennis-ball-edc344dcc65440ea97b5eae84f1957a4
+* author:	Tentrox (https://sketchfab.com/sudharsanme)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tennis Ball" (https://sketchfab.com/3d-models/tennis-ball-edc344dcc65440ea97b5eae84f1957a4) by Tentrox (https://sketchfab.com/sudharsanme) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

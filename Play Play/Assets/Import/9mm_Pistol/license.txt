@@ -1,0 +1,11 @@
+Model Information:
+* title:	9mm Pistol
+* source:	https://sketchfab.com/3d-models/9mm-pistol-43bc09f5aace4346a8a2b6e1580fc03f
+* author:	TORI106 (https://sketchfab.com/TORI106)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "9mm Pistol" (https://sketchfab.com/3d-models/9mm-pistol-43bc09f5aace4346a8a2b6e1580fc03f) by TORI106 (https://sketchfab.com/TORI106) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
